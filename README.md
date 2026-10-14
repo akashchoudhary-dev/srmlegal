@@ -2,7 +2,7 @@
 
 A static marketing website for SRM Legal | Advocates & Solicitors, a New Delhi based law firm advising Indian businesses on Labour Law reforms, DPDP Act compliance, and corporate legal matters.
 
-Live site: [srmlegal.in](https://srmlegal.in/)
+Live site: [srmlegal](https://akashchoudhary-dev.github.io/srmlegal)
 
 ## Project Structure
 
